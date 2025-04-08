@@ -1,5 +1,4 @@
-@@ -0,0 +1,17 @@
- def factorial(n):
+def factorial(n):
      if n == 0:
          return 1
      else:
